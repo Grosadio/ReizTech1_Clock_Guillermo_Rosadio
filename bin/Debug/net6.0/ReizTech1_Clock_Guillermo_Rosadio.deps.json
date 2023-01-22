@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ReizTech1_Clock_Guillermo_Rosadio/1.0.0": {
+        "runtime": {
+          "ReizTech1_Clock_Guillermo_Rosadio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ReizTech1_Clock_Guillermo_Rosadio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
